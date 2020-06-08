@@ -6,7 +6,7 @@ Thunderbird exports its contacts in one single vCard file (*.vcf*). Sometimes yo
 
 # Usage
 - Upload this script to your PHP environment.
-- Put the bulk vCard file into the `input` folder.
+- Put the bulk vCard file as `input.vcf' into the `input` folder.
 - Open `index.php` in your browser.
-- Click "Split VCF" link to start the processing.
+- Click "GO!" link to start the processing.
 - Get the single vCard files from the `output` folder.
